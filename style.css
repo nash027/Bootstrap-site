@@ -1,0 +1,131 @@
+
+footer{
+    position: relative;
+    width: 100%;
+    height: 80px;
+    background-color: rgb(189, 189, 189);
+    border-top: 2px solid rgb(189, 189, 189)  ;
+}
+#texto-footer{
+    font-size: 1em;
+    position: inherit;
+    text-align: center;
+    color: black;
+    top: 35%;
+}
+.resumo{
+    width: 100%;
+    height: 55vh;
+    border-top: 2px solid rgb(189, 189, 189) ;
+    margin-top: 22px;
+}
+/* header nav-bar */
+#nav-tab{
+    position: relative;
+    background-color: rgb(189, 189, 189);
+    border-bottom: 10px solid white;
+}
+#container1{
+    position: relative;
+    width: 100%; 
+    padding: 0 10% 2% 10%;
+    background-color: rgb(189, 189, 189);
+}
+#tabexterno{
+    border-radius: 0 0 1rem 1rem;
+    height: 40px;
+}
+.navbar-toggler{
+    font-size: 0.8rem;
+}
+#button-offcanvas{
+    background-color: rgb(231, 231, 231);
+    color: rgb(92, 91, 91);
+    border-color: rgb(117, 117, 117);
+}
+#button-offcanvas:hover{
+    color: rgb(255, 255, 255);
+    background-color:rgb(189, 189, 189);
+
+}
+#nav-links{
+    width: 100%;
+    padding: 8px;
+    text-align: center;
+}
+#texto-header{
+    background-color: rgb(146, 146, 146);
+    color: rgb(221, 179, 255);
+    border-radius: 0 0 1rem 1rem;
+    padding: 0 0 9px 0;
+    margin-bottom: 5px;
+    text-align: center;
+}
+/* tab contato */
+.card{
+    width: 100%;
+}
+#conjunto-cards{
+    width: 100%;
+}
+#nav-tab button{
+    color: rgb(85, 21, 138);
+}
+#nav-tab button:hover{
+    background-color:rgb(146, 146, 146);
+    border: 0
+}
+/* pop-up windows*/
+#offcanvasWithBothOptions{
+    height: 58vh;
+    border-radius: 0 0 3rem;
+    border: 2px solid rgb(182, 97, 251);
+}
+/* tab inicio */
+#carouselExampleIndicators{
+    width: 70%;
+    left: 15%;
+}
+.carousel-inner{
+    border-radius: 1rem;
+    border: 3px solid gray
+}
+/* resumo */
+#container-resumo{
+    position: relative;
+    height: 100%;
+    width: 60%;
+    overflow: hidden;
+}
+#grid-buttons{
+    text-align: center; 
+    margin-top: 10px;
+    background-color: rgb(192, 192, 192);
+    border-radius: 1rem;
+}
+#grid-buttons .col{
+    border: 2px solid white;
+    padding: 2%;
+}
+#grid-buttons .col button:hover{
+    background-color: grey ;
+}
+#grid-texts{ 
+    margin-top: 14px;
+}
+#grid-texts .col{
+    width: 100%;
+    padding: 2px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
